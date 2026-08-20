@@ -1,19 +1,16 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=GAURAV+KANSE;CS+STUDENT;AI+%2F+ML+DEVELOPER;LINUX+INTERNALS;FULL-STACK+%26+SYSTEMS" alt="Gaurav Kanse Typing Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=GAURAV%20KANSE&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=CS%20STUDENT%20%7C%20AI%2FML%20%7C%20LINUX%20INTERNALS%20%7C%20FULL-STACK&descFontSize=14&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9CA3AF&center=true&vCenter=true&width=600&height=40&lines=CS+STUDENT;AI+%2F+ML+DEVELOPER;LINUX+INTERNALS;FULL-STACK+%26+SYSTEMS" alt="Gaurav Kanse Typing Subtitle" />
 
   <br>
 
-  <p>
-    <code>CS STUDENT</code> &nbsp;•&nbsp; 
-    <code>AI / ML</code> &nbsp;•&nbsp; 
-    <code>LINUX INTERNALS</code> &nbsp;•&nbsp; 
-    <code>FULL-STACK</code>
-  </p>
-
-  <br>
-
-  > *"I have no idea what I'm doing. I just keep opening VS Code."*
+  <blockquote>
+    <i>"I have no idea what I'm doing. I just keep opening VS Code."</i>
+  </blockquote>
 
 </div>
 
@@ -22,24 +19,28 @@
 ### `// 01. WHOAMI`
 
 ```text
-CS student who spends his time:
-  ├─ breaking code
-  ├─ fixing code
-  ├─ breaking the thing that fixed code
-  ├─ pretending the bug was intentional
-  └─ and occasionally writing actual software
+┌──[ gaurav@kanse-arch:~ ]────────────────────────────────────────────────┐
+│ CS student who spends his time:                                         │
+│   ├─ breaking Linux                                                     │
+│   ├─ fixing Linux                                                       │
+│   ├─ breaking the thing that fixed Linux                                │
+│   ├─ pretending the bug was intentional                                 │
+│   └─ and occasionally writing actual software                           │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 ```text
-"I should probably study"
-        ↓
-"Wait, I have an idea"
-        ↓
-"Let me just prototype it"
-        ↓
-"It's 4 AM"
-        ↓
-"WHY IS THIS ACTUALLY WORKING"
+┌──[ mindmap.sh ]─────────────────────────────────────────────────────────┐
+│ "I should probably study"                                               │
+│         ↓                                                               │
+│ "Wait, I have an idea"                                                  │
+│         ↓                                                               │
+│ "Let me just prototype it"                                              │
+│         ↓                                                               │
+│ "It's 4 AM"                                                             │
+│         ↓                                                               │
+│ "WHY IS THIS ACTUALLY WORKING"                                          │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -89,8 +90,8 @@ CS student who spends his time:
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <code>LANGUAGES</code><br><br>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/--_LANGUAGES_-0D1117?style=flat-square&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=white" /><br>
@@ -99,8 +100,8 @@ CS student who spends his time:
       <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white" />
     </td>
-    <td width="50%" valign="top">
-      <code>AI / ML</code><br><br>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/--_AI_%2F_ML_-0D1117?style=flat-square&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Scikit_Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -110,8 +111,9 @@ CS student who spends his time:
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <code>WEB DEVELOPMENT</code><br><br>
+    <td width="50%" valign="top" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/--_WEB_DEVELOPMENT_-0D1117?style=flat-square&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=three.js&logoColor=white" />
@@ -121,8 +123,9 @@ CS student who spends his time:
       <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=white" />
     </td>
-    <td width="50%" valign="top">
-      <code>SYSTEMS & TOOLS</code><br><br>
+    <td width="50%" valign="top" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/--_SYSTEMS_%2F_TOOLS_-0D1117?style=flat-square&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
@@ -140,19 +143,21 @@ People ask: *"What are you working on?"*
 *Brother, I don't even know.*
 
 ```text
-see something cool
-      ↓
-"wait... I could build that"
-      ↓
-open VS Code
-      ↓
-lose track of time
-      ↓
-create repository
-      ↓
-question every life decision
-      ↓
-somehow it works
+┌──[ ideation.sh ]────────────────────────────────────────────────────────┐
+│ see something cool                                                      │
+│       ↓                                                                 │
+│ "wait... I could build that"                                            │
+│       ↓                                                                 │
+│ open VS Code                                                            │
+│       ↓                                                                 │
+│ lose track of time                                                      │
+│       ↓                                                                 │
+│ create repository                                                       │
+│       ↓                                                                 │
+│ question every life decision                                            │
+│       ↓                                                                 │
+│ somehow it works                                                        │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br>
@@ -165,7 +170,7 @@ somehow it works
   <br>
 
   <a href="https://github.com/Gaurav-Kanse?tab=repositories">
-    <img src="https://img.shields.io/badge/GO_LOOK_AT_THE_REPOS-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GO LOOK AT THE REPOS" />
+    <img src="https://img.shields.io/badge/━━━━_GO_LOOK_AT_THE_REPOS_━━━━-0D1117?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GO LOOK AT THE REPOS" />
   </a>
 
 </div>
@@ -180,7 +185,7 @@ somehow it works
 ### `// 05. DEVELOPMENT METHODOLOGY`
 
 ```text
-┌───────────────────────────────────────┐
+┌──[ dev_flow.sh ]──────────────────────┐
 │ HAVE AN IDEA                          │
 └──────────────────┬────────────────────┘
                    ↓
@@ -218,30 +223,34 @@ somehow it works
 ### `// 06. THE LINUX EXPERIENCE`
 
 ```text
-Linux:  "You can do whatever you want."
-Me:     "Really?"
-Linux:  "Yes."
-Me:     "Can I automate this?"
-Linux:  "Yes."
-Me:     "Can I break this?"
-Linux:  "sudo"
-Me:     "...alright."
+┌──[ linux_dialogue.sh ]──────────────────────────────────────────────────┐
+│ Linux:  "You can do whatever you want."                                 │
+│ Me:     "Really?"                                                       │
+│ Linux:  "Yes."                                                          │
+│ Me:     "Can I automate this?"                                          │
+│ Linux:  "Yes."                                                          │
+│ Me:     "Can I break this?"                                             │
+│ Linux:  "sudo"                                                          │
+│ Me:     "...alright."                                                   │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
+```text
 Linux is easy.  
 Linux is powerful.  
 Linux is flexible.  
 Linux is customizable.  
 
 Linux is...  
-`why is this permission denied`
+why is this permission denied
+```
 
----
+```text
+/proc  
+Apparently that's a filesystem.
 
-`/proc`  
-*Apparently that's a filesystem.*
-
-**Respectfully:** `what the fuck`
+Respectfully: what the fuck
+```
 
 ---
 
@@ -292,7 +301,10 @@ and then remembering what I changed.
 ### `// 10. CURRENTLY LEARNING`
 
 ```text
-Machine Learning ➔ Linear Algebra ➔ Linux Internals ➔ Systems Programming ➔ Local LLMs ➔ UI / UX ➔ 3D Development ➔ Whatever breaks next
+┌──[ learning_pipeline.sh ]───────────────────────────────────────────────┐
+│ Machine Learning ➔ Linear Algebra ➔ Linux Internals ➔ Systems Programming│
+│ ➔ Local LLMs ➔ UI / UX ➔ 3D Development ➔ Whatever breaks next         │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 > *I have started 14 things and finished 3.*  
@@ -305,13 +317,19 @@ Machine Learning ➔ Linear Algebra ➔ Linux Internals ➔ Systems Programming 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Kanse&show_icons=true&hide_border=true&theme=github_dark" height="150" alt="Gaurav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Kanse&show_icons=true&hide_border=true&theme=github_dark" height="160" alt="Gaurav's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kanse&layout=compact&hide_border=true&theme=github_dark" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kanse&layout=compact&hide_border=true&theme=github_dark" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Gaurav-Kanse&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-Kanse&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -324,7 +342,7 @@ Machine Learning ➔ Linear Algebra ➔ Linux Internals ➔ Systems Programming 
   <a href="https://github.com/Gaurav-Kanse">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://portfolio-gauravkanse.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -339,5 +357,9 @@ Machine Learning ➔ Linear Algebra ➔ Linux Internals ➔ Systems Programming 
   <br><br>
 
   <code>if (works) don't.touch();</code>
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
