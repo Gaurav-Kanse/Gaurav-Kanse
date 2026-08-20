@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=GAURAV%20KANSE&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=CS%20STUDENT%20%7C%20AI%2FML%20%7C%20LINUX%20INTERNALS%20%7C%20FULL-STACK&descFontSize=14&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=GAURAV%20KANSE&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=CS%20STUDENT%20%7C%20AI%2FML%20%7C%20UI%2FUX%20%7C%203D%20DEV%20%7C%20FULL-STACK&descFontSize=14&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
 
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9CA3AF&center=true&vCenter=true&width=600&height=40&lines=CS+STUDENT;AI+%2F+ML+DEVELOPER;LINUX+INTERNALS;FULL-STACK+%26+SYSTEMS" alt="Gaurav Kanse Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9CA3AF&center=true&vCenter=true&width=600&height=40&lines=CS+STUDENT;AI+%2F+ML+DEVELOPER;UI%2FUX+%26+3D+DEVELOPMENT;FULL-STACK+%26+SYSTEMS" alt="Gaurav Kanse Typing Subtitle" />
 
   <br>
 
@@ -302,8 +302,8 @@ and then remembering what I changed.
 
 ```text
 ┌──[ learning_pipeline.sh ]───────────────────────────────────────────────┐
-│ Machine Learning ➔ Linear Algebra ➔ Linux Internals ➔ Systems Programming│
-│ ➔ Local LLMs ➔ UI / UX ➔ 3D Development ➔ Whatever breaks next         │
+│ Machine Learning ➔ Linear Algebra ➔ Systems Programming ➔ Local LLMs    │
+│ ➔ UI / UX ➔ 3D Development ➔ Whatever breaks next                       │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
