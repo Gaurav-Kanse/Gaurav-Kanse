@@ -1,63 +1,78 @@
-Tech Stack
-Languages
-<p> <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash,java" /> </p>
-AI / Machine Learning
-<p> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /> </p> <p> <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white"/> </p>
-Web Development
-<p> <img src="https://skillicons.dev/icons?i=react,tailwind,threejs,vite,fastapi,nodejs,mongodb,supabase" /> </p>
-Systems & Tools
-<p> <img src="https://skillicons.dev/icons?i=linux,git,github,bash,docker,vscode" /> </p>
+# Gaurav Kanse
 
-Basically:
+### `CS Student` · `AI/ML` · `Linux` · `Full-Stack`
+
+> I have no idea what I'm doing.  
+> I just keep opening VS Code.
+
+CS student who enjoys:
+
+- breaking Linux
+- fixing Linux
+- breaking the thing that fixed Linux
+- pretending the bug was intentional
+- and occasionally writing actual software
+
+Currently somewhere between:
+
+```text
+"I should probably study"
+        ↓
+"Wait, I have an idea"
+        ↓
+"Let me just prototype it"
+        ↓
+"It's 4 AM"
+        ↓
+"WHY IS THIS ACTUALLY WORKING"
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,tailwind,fastapi,linux,git,docker,vscode,github" /> </p>
+
+> tech_stack
+<table> <tr> <td valign="top" width="50%">
+Languages
+<p> <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash,java" /> </p> </td> <td valign="top" width="50%">
+AI / ML
+<p> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /> </p> <p> <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white"/> </p> </td> </tr> <tr> <td valign="top">
+Web
+<p> <img src="https://skillicons.dev/icons?i=react,tailwind,threejs,vite,fastapi,nodejs,mongodb,supabase" /> </p> </td> <td valign="top">
+Systems / Tools
+<p> <img src="https://skillicons.dev/icons?i=linux,git,github,bash,docker,vscode" /> </p> </td> </tr> </table>
 
 If it has a terminal, I'll probably try to automate it.
 
-Things I've Built / Worked On
+> what_am_i_building
 Aegis
 
-A Linux system monitoring and resource-management project that I
-worked on with a close friend.
+A Linux system monitoring and resource-management project I worked on
+with a close friend.
 
-It monitors things like:
+It monitors:
 
-RAM
-CPU
-Temperature
-PSI
-Disk
-Network
-Battery
-Processes
+RAM · CPU · Temperature · PSI · Disk
+Network · Battery · Processes
 
-and comes with a native GTK4 + Libadwaita interface.
-
-The project involves:
+with a native GTK4 + Libadwaita interface.
 
 Python GTK4 Libadwaita Linux systemd IPC
 
-I mostly got involved because:
-
+I got involved because:
 "That looks cool."
 
-And then somehow ended up staring at Linux system internals.
+10 minutes later:
+
+why is /proc a filesystem
 
 Worth it.
 
 Nyx
 
-My attempt at creating a personal AI assistant.
+My attempt at making a personal AI assistant.
 
 Because apparently using existing AI assistants wasn't enough.
 
-So naturally I thought:
-
-"What if I make my own?"
-
-And then things escalated.
-
-LLMs
+LLM
  ↓
-Local Models
+Local model
  ↓
 Ollama
  ↓
@@ -67,140 +82,82 @@ Tools
  ↓
 Agents
  ↓
-"Wait, why am I building this?"
+"wait... why am I building Jarvis?"
 
 Basically:
 
-Jarvis, but running on my PC and held together by Python.
+Jarvis, but held together by Python and questionable decisions.
 
 BookBridge
 
 A full-stack book marketplace.
 
-Because I thought:
+Because:
 
 "I should probably build something useful."
 
 So I did.
 
-Then I remembered I could've just read a book.
+Then remembered I could've just read a book.
 
-Built with web technologies and a questionable amount of debugging.
+React Backend Database
 
 Fake News Detector
 
-A machine-learning project that tries to determine whether a news
-article is real or absolute bullshit.
+A machine-learning project that tries to determine whether a news article
+is real or absolute bullshit.
 
 Ironically, it cannot determine whether my code is bullshit.
 
-Python Scikit-Learn TF-IDF Machine Learning
+Python Scikit-Learn TF-IDF
 
-My Development Methodology™
-          HAVE AN IDEA
-               │
-               ▼
-      "This will take 2 hours"
-               │
-               ▼
-         Start coding
-               │
-               ▼
-       Something breaks
-               │
-               ▼
-          Google it
-               │
-               ▼
-          Ask AI
-               │
-               ▼
-       Read StackOverflow
-               │
-               ▼
-      Change random thing
-               │
-               ▼
-         IT WORKS
-               │
-               ▼
-      DON'T TOUCH ANYTHING
-               │
-               ▼
-            git add .
-               │
-               ▼
-          git commit
-               │
-               ▼
-            git push
-               │
-               ▼
-        "Wait what did I just
-             commit?"
-               │
-               ▼
-             ERROR
-My Relationship With Linux
+> development_methodology
+┌───────────────────────────────────────┐
+│ HAVE AN IDEA                          │
+└──────────────────┬────────────────────┘
+                   ↓
+        "This will take 2 hours"
+                   ↓
+             Start coding
+                   ↓
+           Something breaks
+                   ↓
+                Google
+                   ↓
+                  AI
+                   ↓
+            StackOverflow
+                   ↓
+         Change random thing
+                   ↓
+              IT WORKS
+                   ↓
+        DO NOT TOUCH ANYTHING
+                   ↓
+               git add .
+                   ↓
+              git commit
+                   ↓
+               git push
+                   ↓
+       "wait what did I just push"
+                   ↓
+                 ERROR
+> relationship_with_linux
 
-It's complicated.
+Linux: You can do whatever you want.
+Me: Really?
+Linux: Yes.
+Me: Can I automate this?
+Linux: Yes.
+Me: Can I break this?
+Linux: sudo
+Me: ...alright.
 
-Linux:
-"You can do whatever you want."
-
-
-Me:
-"Really?"
-
-
-Linux:
-"Yes."
-
-
-Me:
-"Can I change this?"
-
-
-Linux:
-"Yes."
-
-
-Me:
-"Can I automate this?"
-
-
-Linux:
-"Yes."
-
-
-Me:
-"Can I break this?"
-
-
-Linux:
-"..."
-
-
-Me:
-"Can I?"
-
-
-Linux:
-"sudo."
-
-
-Me:
-"Alright."
-Things Linux Has Taught Me
+Things Linux taught me
 Linux is easy.
-
-
 Linux is powerful.
-
-
 Linux is flexible.
-
-
 Linux is customizable.
 
 
@@ -209,97 +166,31 @@ Linux is...
 
 why is this permission denied
 
-Also:
+And then there's:
 
 /proc
 
-is apparently a filesystem.
+Apparently that's a filesystem.
 
-Who decided this was a good idea?
+Respectfully:
 
-Respectfully...
+what the fuck
 
-what the fuck.
-
-My Debugging Strategy
-Step 1
-
-Read the error.
-
-Step 2
-
-Pretend I understood it.
-
-Step 3
-
-Google the error.
-
-Step 4
-
-Try something completely unrelated.
-
-Step 5
-
-Break three more things.
-
-Step 6
-
-Revert everything.
-
-Step 7
-
-Realize the original problem was a typo.
-
-Step 8
-
-Stare at the screen for 10 minutes.
-
-Step 9
-
-Fix it.
-
-Step 10
-git commit -m "fixed stuff"
-Things I Have Learned
-Git
- └── git add .
-      └── git commit
-           └── git push
-                └── "WHY DID THAT GET COMMITTED"
-
-
-Linux
- └── sudo
-      └── permission denied
-           └── sudo again
-                └── success
-                     └── fear
-
-
-Python
- └── works
-
-
-JavaScript
- └── works
-
-
-CSS
- └── why
-
-
-AI
- └── "just one more feature"
-
-
-College
- └── "this assignment is due tomorrow?"
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Kanse&show_icons=true&hide_border=true&theme=dark&bg_color=00000000" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kanse&layout=compact&hide_border=true&theme=dark&bg_color=00000000" height="170"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Gaurav-Kanse&theme=dark&hide_border=true&background=00000000"/> </p>
-Currently Learning
-
-Because apparently knowing things is not enough.
-
+> debugging.exe
+Step	My strategy
+01	Read the error
+02	Pretend I understood it
+03	Google it
+04	Ask AI
+05	Change something unrelated
+06	Break three more things
+07	Revert everything
+08	Discover it was a typo
+09	Fix it
+10	git commit -m "fixed stuff"
+> github_stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Kanse&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kanse&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af" height="165"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Gaurav-Kanse&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=666666"/> </p>
+> currently_learning
 Machine Learning
         ↓
 Linear Algebra
@@ -310,36 +201,33 @@ Systems Programming
         ↓
 Local LLMs
         ↓
-UI/UX
+UI / UX
         ↓
 3D Development
         ↓
 Whatever breaks next
 
-Translation:
-
 I have started 14 things and finished 3.
-
 We're getting there.
 
-Current Brain Status
-RAM        ████████████████░░  87%
-CPU        ███████░░░░░░░░░░░  41%
-Motivation ███░░░░░░░░░░░░░░░  17%
-Projects   ██████████████████  900%
-Sleep      ██░░░░░░░░░░░░░░░░   9%
+> system_status
+RAM         ████████████████░░   87%
+CPU         ███████░░░░░░░░░░░   41%
+Motivation  ███░░░░░░░░░░░░░░░   17%
+Projects    ██████████████████  900%
+Sleep       ██░░░░░░░░░░░░░░░░    9%
 
-Please do not ask about the project count.
+status: technically functional
 
-Project Management
-Projects started:       yes
-Projects finished:      eventually
-Projects abandoned:     absolutely
-Projects renamed:       constantly
-Projects rewritten:     why not
-README files written:   more than necessary
-Actual documentation:   we're working on it
-Things I Probably Shouldn't Be Trusted With
+> project_management
+Projects started:        yes
+Projects finished:       eventually
+Projects abandoned:      absolutely
+Projects renamed:        constantly
+Projects rewritten:      why not
+README files written:    more than necessary
+Actual documentation:    we're working on it
+> things_i_should_not_be_trusted_with
 [✓] sudo access
 [✓] a fresh Linux installation
 [✓] an empty Git repository
@@ -354,7 +242,7 @@ Especially:
 
 That sentence has cost me entire evenings.
 
-Greatest Achievement
+> greatest_achievement
 
 Getting something to work...
 
@@ -364,25 +252,11 @@ Getting something to work...
 
 and then remembering what I changed.
 
-Find Me
+> contact
 <p align="center"> <a href="https://github.com/Gaurav-Kanse"> <img src="https://img.shields.io/badge/GitHub-Gaurav--Kanse-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://portfolio-gauravkanse.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
-Final Words
-
-I don't always know what I'm doing.
-
-But eventually:
-
-██████████████████████████████
-█                            █
-█       IT FUCKING WORKS     █
-█                            █
-██████████████████████████████
-
-And that's basically the entire career.
-
-<br> <p align="center">
+<p align="center">
 Build stupid things. Learn smart things. Break everything.
 
-If it works, don't ask why.
+if (works) don't.touch();
 
 </p> ```
