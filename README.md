@@ -134,7 +134,50 @@ CS student who spends his time:
 
 ---
 
-### `// 04. DEVELOPMENT METHODOLOGY`
+### `// 04. WHAT SHOULD I BUILD?`
+
+People ask: *"What are you working on?"*  
+*Brother, I don't even know.*
+
+```text
+see something cool
+      ↓
+"wait... I could build that"
+      ↓
+open VS Code
+      ↓
+lose track of time
+      ↓
+create repository
+      ↓
+question every life decision
+      ↓
+somehow it works
+```
+
+<br>
+
+<div align="center">
+
+  <h3><b>BRUH.</b></h3>
+  <h3><b>GO LOOK AT THE REPOS.</b></h3>
+
+  <br>
+
+  <a href="https://github.com/Gaurav-Kanse?tab=repositories">
+    <img src="https://img.shields.io/badge/GO_LOOK_AT_THE_REPOS-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GO LOOK AT THE REPOS" />
+  </a>
+
+</div>
+
+<br>
+
+> **Warning:**  
+> `unfinished projects may contain traces of ambition.`
+
+---
+
+### `// 05. DEVELOPMENT METHODOLOGY`
 
 ```text
 ┌───────────────────────────────────────┐
@@ -172,7 +215,7 @@ CS student who spends his time:
 
 ---
 
-### `// 05. THE LINUX EXPERIENCE`
+### `// 06. THE LINUX EXPERIENCE`
 
 ```text
 Linux:  "You can do whatever you want."
@@ -202,7 +245,7 @@ Linux is...
 
 ---
 
-### `// 06. DEBUGGING PROTOCOL`
+### `// 07. DEBUGGING PROTOCOL`
 
 | Step | Strategy |
 | :---: | :--- |
@@ -219,7 +262,7 @@ Linux is...
 
 ---
 
-### `// 07. THINGS I SHOULD NOT BE TRUSTED WITH`
+### `// 08. THINGS I SHOULD NOT BE TRUSTED WITH`
 
 - [x] `sudo` access
 - [x] A fresh Linux installation
@@ -234,7 +277,7 @@ Linux is...
 
 ---
 
-### `// 08. GREATEST ACHIEVEMENT`
+### `// 09. GREATEST ACHIEVEMENT`
 
 Getting something to work...
 
@@ -246,7 +289,7 @@ and then remembering what I changed.
 
 ---
 
-### `// 09. CURRENTLY LEARNING`
+### `// 10. CURRENTLY LEARNING`
 
 ```text
 Machine Learning ➔ Linear Algebra ➔ Linux Internals ➔ Systems Programming ➔ Local LLMs ➔ UI / UX ➔ 3D Development ➔ Whatever breaks next
@@ -257,7 +300,7 @@ Machine Learning ➔ Linear Algebra ➔ Linux Internals ➔ Systems Programming 
 
 ---
 
-### <code>// 10. GITHUB STATS</code>
+### <code>// 11. GITHUB STATS</code>
 
 <br>
 
@@ -273,7 +316,7 @@ Machine Learning ➔ Linear Algebra ➔ Linux Internals ➔ Systems Programming 
 
 ---
 
-### <code>// 11. CONNECT</code>
+### <code>// 12. CONNECT</code>
 
 <br>
 
