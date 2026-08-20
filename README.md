@@ -1,15 +1,25 @@
 <div align="center">
 
-# ❯ Gaurav Kanse
-### `CS Student` · `AI / ML` · `Linux Internals` · `Full-Stack` · `Systems`
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=GAURAV+KANSE;CS+STUDENT;AI+%2F+ML+DEVELOPER;LINUX+INTERNALS;FULL-STACK+%26+SYSTEMS" alt="Gaurav Kanse Typing Header" />
 
-> *"I have no idea what I'm doing. I just keep opening VS Code."*
+  <br>
+
+  <p>
+    <code>CS STUDENT</code> &nbsp;•&nbsp; 
+    <code>AI / ML</code> &nbsp;•&nbsp; 
+    <code>LINUX INTERNALS</code> &nbsp;•&nbsp; 
+    <code>FULL-STACK</code>
+  </p>
+
+  <br>
+
+  > *"I have no idea what I'm doing. I just keep opening VS Code."*
 
 </div>
 
 ---
 
-### ┌── 💻 `whoami`
+### `// 01. WHOAMI`
 
 ```text
 CS student who spends his time:
@@ -34,7 +44,7 @@ CS student who spends his time:
 
 ---
 
-### ┌── 📊 `system_diagnostics`
+### `// 02. SYSTEM DIAGNOSTICS`
 
 <table width="100%">
 <tr>
@@ -73,75 +83,58 @@ CS student who spends his time:
 
 ---
 
-### ┌── ⚡ `tech_stack`
+### <code>// 03. TECH STACK</code>
 
-<table align="center" width="100%">
+<br>
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <code>Languages</code><br><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash,java&theme=dark" alt="Languages" />
-      </a>
+      <code>LANGUAGES</code><br><br>
+      <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <code>AI / ML</code><br><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI/ML" />
-      </a><br><br>
-      <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Scikit_Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <code>Web Stack</code><br><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,threejs,vite,fastapi,nodejs,mongodb,supabase&theme=dark" alt="Web Stack" />
-      </a>
+      <code>WEB DEVELOPMENT</code><br><br>
+      <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=three.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <code>Systems & Tools</code><br><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode&theme=dark" alt="Tools" />
-      </a>
+      <code>SYSTEMS & TOOLS</code><br><br>
+      <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### ┌── 🛠️ `what_am_i_building`
-
-#### 🛡️ Aegis `Linux` `GTK4` `Libadwaita` `systemd` `IPC`
-> A Linux system monitoring and resource-management project built in collaboration with a close friend.  
-> 
-> *I got involved because:* `"That looks cool."`  
-> *10 minutes later:* `"why is /proc a filesystem"`  
-> **Worth it.**
-
-#### 🌙 Nyx `LLM` `Ollama` `Voice` `Agents` `Python`
-> My attempt at building a personal AI assistant.  
-> 
-> `LLM` ➔ `Local model` ➔ `Ollama` ➔ `Voice` ➔ `Tools` ➔ `Agents` ➔ *"wait... why am I building Jarvis?"*  
-> 
-> *Jarvis, but held together by Python and questionable decisions.*
-
-#### 📚 BookBridge `React` `Node.js` `Full-Stack`
-> A full-stack book marketplace.  
-> 
-> *"I should probably build something useful."* ➔ *"So I did."* ➔ *"Then remembered I could've just read a book."*
-
-#### 📰 Fake News Detector `Python` `Scikit-Learn` `TF-IDF` `ML`
-> A machine-learning project for text classification.  
-> 
-> *Tries to determine whether a news article is real or absolute bullshit.*  
-> *Ironically, it cannot determine whether my code is bullshit.*
-
----
-
-### ┌── 🔄 `development_methodology`
+### `// 04. DEVELOPMENT METHODOLOGY`
 
 ```text
 ┌───────────────────────────────────────┐
@@ -179,7 +172,7 @@ CS student who spends his time:
 
 ---
 
-### ┌── 🐧 `the_linux_experience`
+### `// 05. THE LINUX EXPERIENCE`
 
 ```text
 Linux:  "You can do whatever you want."
@@ -209,7 +202,7 @@ Linux is...
 
 ---
 
-### ┌── 🐛 `debugging_protocol`
+### `// 06. DEBUGGING PROTOCOL`
 
 | Step | Strategy |
 | :---: | :--- |
@@ -226,7 +219,7 @@ Linux is...
 
 ---
 
-### ┌── ⚠️ `things_i_should_not_be_trusted_with`
+### `// 07. THINGS I SHOULD NOT BE TRUSTED WITH`
 
 - [x] `sudo` access
 - [x] A fresh Linux installation
@@ -241,7 +234,7 @@ Linux is...
 
 ---
 
-### ┌── 🏆 `greatest_achievement`
+### `// 08. GREATEST ACHIEVEMENT`
 
 Getting something to work...
 
@@ -253,7 +246,7 @@ and then remembering what I changed.
 
 ---
 
-### ┌── 🧠 `currently_learning`
+### `// 09. CURRENTLY LEARNING`
 
 ```text
 Machine Learning ➔ Linear Algebra ➔ Linux Internals ➔ Systems Programming ➔ Local LLMs ➔ UI / UX ➔ 3D Development ➔ Whatever breaks next
@@ -264,7 +257,9 @@ Machine Learning ➔ Linear Algebra ➔ Linux Internals ➔ Systems Programming 
 
 ---
 
-### ┌── 📈 `github_stats`
+### <code>// 10. GITHUB STATS</code>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Kanse&show_icons=true&hide_border=true&theme=github_dark" height="150" alt="Gaurav's GitHub Stats" />
@@ -278,26 +273,28 @@ Machine Learning ➔ Linear Algebra ➔ Linux Internals ➔ Systems Programming 
 
 ---
 
-### ┌── 📫 `contact`
-
-<p align="center">
-  <a href="https://github.com/Gaurav-Kanse">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://portfolio-gauravkanse.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+### <code>// 11. CONNECT</code>
 
 <br>
 
+<p align="center">
+  <a href="https://github.com/Gaurav-Kanse">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-gauravkanse.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<br><br>
+
 <div align="center">
 
-**Build stupid things. Learn smart things. Break everything.**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&height=30&lines=Build+stupid+things.+Learn+smart+things.+Break+everything." alt="Animated Quote" />
 
-```javascript
-if (works) don't.touch();
-```
+  <br><br>
+
+  <code>if (works) don't.touch();</code>
 
 </div>
