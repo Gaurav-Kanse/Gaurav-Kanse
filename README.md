@@ -40,76 +40,8 @@ Systems / Tools
 
 If it has a terminal, I'll probably try to automate it.
 
-> what_am_i_building
-Aegis
-
-A Linux system monitoring and resource-management project I worked on
-with a close friend.
-
-It monitors:
-
-RAM · CPU · Temperature · PSI · Disk
-Network · Battery · Processes
-
-with a native GTK4 + Libadwaita interface.
-
-Python GTK4 Libadwaita Linux systemd IPC
-
-I got involved because:
-"That looks cool."
-
-10 minutes later:
-
-why is /proc a filesystem
-
-Worth it.
-
-Nyx
-
-My attempt at making a personal AI assistant.
-
-Because apparently using existing AI assistants wasn't enough.
-
-LLM
- ↓
-Local model
- ↓
-Ollama
- ↓
-Voice
- ↓
-Tools
- ↓
-Agents
- ↓
-"wait... why am I building Jarvis?"
-
-Basically:
-
-Jarvis, but held together by Python and questionable decisions.
-
-BookBridge
-
-A full-stack book marketplace.
-
-Because:
-
-"I should probably build something useful."
-
-So I did.
-
-Then remembered I could've just read a book.
-
-React Backend Database
-
-Fake News Detector
-
-A machine-learning project that tries to determine whether a news article
-is real or absolute bullshit.
-
-Ironically, it cannot determine whether my code is bullshit.
-
-Python Scikit-Learn TF-IDF
+> what_am_i_building:
+Anyting that seems fun ig
 
 > development_methodology
 ┌───────────────────────────────────────┐
@@ -143,9 +75,10 @@ Python Scikit-Learn TF-IDF
        "wait what did I just push"
                    ↓
                  ERROR
-> relationship_with_linux
 
-Linux: You can do whatever you want.
+
+> relationship_with_linux
+inux: You can do whatever you want.
 Me: Really?
 Linux: Yes.
 Me: Can I automate this?
@@ -162,9 +95,6 @@ Linux is customizable.
 
 
 Linux is...
-
-
-why is this permission denied
 
 And then there's:
 
@@ -188,8 +118,11 @@ Step	My strategy
 08	Discover it was a typo
 09	Fix it
 10	git commit -m "fixed stuff"
+
+
 > github_stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Kanse&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kanse&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af" height="165"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Gaurav-Kanse&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=666666"/> </p>
+
 > currently_learning
 Machine Learning
         ↓
@@ -227,6 +160,7 @@ Projects renamed:        constantly
 Projects rewritten:      why not
 README files written:    more than necessary
 Actual documentation:    we're working on it
+
 > things_i_should_not_be_trusted_with
 [✓] sudo access
 [✓] a fresh Linux installation
@@ -254,9 +188,12 @@ and then remembering what I changed.
 
 > contact
 <p align="center"> <a href="https://github.com/Gaurav-Kanse"> <img src="https://img.shields.io/badge/GitHub-Gaurav--Kanse-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://portfolio-gauravkanse.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
+
 <p align="center">
 Build stupid things. Learn smart things. Break everything.
 
 if (works) don't.touch();
 
 </p> ```
+
+Important: Don't add another pair of around the entire README when pasting it into GitHub. The block above is only for copying; inside your actual `README.md`, the individual `text ` sections should remain exactly as shown.
