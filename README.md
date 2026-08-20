@@ -4,8 +4,8 @@
 
   <br>
 
-  <!-- Incoming Text Typing Animation for Name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=>_GAURAV+KANSE;GAURAV+KANSE" alt="GAURAV KANSE Incoming Text Animation" />
+  <!-- Incoming Text Typing Animation for Name (One-time non-looping animation) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&repeat=false&lines=GAURAV+KANSE" alt="GAURAV KANSE Incoming Text Animation" />
 
   <br>
 
@@ -19,7 +19,7 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=9CA3AF&center=true&vCenter=true&width=600&height=35&lines=CS+STUDENT;AI+%2F+ML+DEVELOPER;UI%2FUX+%26+3D+DEVELOPMENT;FULL-STACK+%26+SYSTEMS" alt="Subtitles Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=9CA3AF&center=true&vCenter=true&width=600&height=35&repeat=false&lines=CS+STUDENT;AI+%2F+ML+DEVELOPER;UI%2FUX+%26+3D+DEVELOPMENT;FULL-STACK+%26+SYSTEMS" alt="Subtitles Animation" />
 
   <br>
 
@@ -29,7 +29,7 @@
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=400&height=35&lines=%2F%2F+01.+WHOAMI" alt="// 01. WHOAMI" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=400&height=35&repeat=false&lines=%2F%2F+01.+WHOAMI" alt="// 01. WHOAMI" />
 
 ```text
 ┌──[ gaurav@kanse-arch:~ ]────────────────────────────────────────────────┐
@@ -58,7 +58,7 @@
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=400&height=35&lines=%2F%2F+02.+SYSTEM+DIAGNOSTICS" alt="// 02. SYSTEM DIAGNOSTICS" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=400&height=35&repeat=false&lines=%2F%2F+02.+SYSTEM+DIAGNOSTICS" alt="// 02. SYSTEM DIAGNOSTICS" />
 
 <table width="100%">
 <tr>
@@ -97,7 +97,7 @@
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=400&height=35&lines=%2F%2F+03.+TECH+STACK" alt="// 03. TECH STACK" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=400&height=35&repeat=false&lines=%2F%2F+03.+TECH+STACK" alt="// 03. TECH STACK" />
 
 <br>
 
@@ -150,7 +150,7 @@
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=450&height=35&lines=%2F%2F+04.+WHAT+SHOULD+I+BUILD%3F" alt="// 04. WHAT SHOULD I BUILD?" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=450&height=35&repeat=false&lines=%2F%2F+04.+WHAT+SHOULD+I+BUILD%3F" alt="// 04. WHAT SHOULD I BUILD?" />
 
 People ask: *"What are you working on?"*  
 *Brother, I don't even know.*
@@ -195,7 +195,7 @@ People ask: *"What are you working on?"*
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=450&height=35&lines=%2F%2F+05.+DEVELOPMENT+METHODOLOGY" alt="// 05. DEVELOPMENT METHODOLOGY" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=450&height=35&repeat=false&lines=%2F%2F+05.+DEVELOPMENT+METHODOLOGY" alt="// 05. DEVELOPMENT METHODOLOGY" />
 
 ```text
 ┌──[ dev_flow.sh ]──────────────────────┐
@@ -233,7 +233,7 @@ People ask: *"What are you working on?"*
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=450&height=35&lines=%2F%2F+06.+THE+LINUX+EXPERIENCE" alt="// 06. THE LINUX EXPERIENCE" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=450&height=35&repeat=false&lines=%2F%2F+06.+THE+LINUX+EXPERIENCE" alt="// 06. THE LINUX EXPERIENCE" />
 
 ```text
 ┌──[ linux_dialogue.sh ]──────────────────────────────────────────────────┐
@@ -365,7 +365,7 @@ and then remembering what I changed.
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&height=30&lines=Build+stupid+things.+Learn+smart+things.+Break+everything." alt="Animated Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&height=30&repeat=false&lines=Build+stupid+things.+Learn+smart+things.+Break+everything." alt="Animated Quote" />
 
   <br><br>
 
