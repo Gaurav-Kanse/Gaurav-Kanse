@@ -1,19 +1,24 @@
-# Gaurav Kanse
+<div align="center">
 
-### `CS Student` · `AI/ML` · `Linux` · `Full-Stack`
+# ❯ Gaurav Kanse
+### `CS Student` · `AI / ML` · `Linux Internals` · `Full-Stack` · `Systems`
 
-> I have no idea what I'm doing.  
-> I just keep opening VS Code.
+> *"I have no idea what I'm doing. I just keep opening VS Code."*
 
-CS student who enjoys:
+</div>
 
-- breaking Linux
-- fixing Linux
-- breaking the thing that fixed Linux
-- pretending the bug was intentional
-- and occasionally writing actual software
+---
 
-Currently somewhere between:
+### ┌── 💻 `whoami`
+
+```text
+CS student who spends his time:
+  ├─ breaking Linux
+  ├─ fixing Linux
+  ├─ breaking the thing that fixed Linux
+  ├─ pretending the bug was intentional
+  └─ and occasionally writing actual software
+```
 
 ```text
 "I should probably study"
@@ -25,25 +30,120 @@ Currently somewhere between:
 "It's 4 AM"
         ↓
 "WHY IS THIS ACTUALLY WORKING"
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,tailwind,fastapi,linux,git,docker,vscode,github" /> </p>
+```
 
-> tech_stack
-<table> <tr> <td valign="top" width="50%">
-Languages
-<p> <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash,java" /> </p> </td> <td valign="top" width="50%">
-AI / ML
-<p> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /> </p> <p> <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white"/> </p> </td> </tr> <tr> <td valign="top">
-Web
-<p> <img src="https://skillicons.dev/icons?i=react,tailwind,threejs,vite,fastapi,nodejs,mongodb,supabase" /> </p> </td> <td valign="top">
-Systems / Tools
-<p> <img src="https://skillicons.dev/icons?i=linux,git,github,bash,docker,vscode" /> </p> </td> </tr> </table>
+---
 
-If it has a terminal, I'll probably try to automate it.
+### ┌── 📊 `system_diagnostics`
 
-> what_am_i_building:
-Anyting that seems fun ig
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-> development_methodology
+```text
+┌─ SYSTEM STATUS ──────────────────────────┐
+│ RAM         ████████████████░░   87%     │
+│ CPU         ███████░░░░░░░░░░░   41%     │
+│ Motivation  ███░░░░░░░░░░░░░░░   17%     │
+│ Projects    ██████████████████  900%     │
+│ Sleep       ██░░░░░░░░░░░░░░░░    9%     │
+│                                          │
+│ status: technically functional           │
+└──────────────────────────────────────────┘
+```
+
+</td>
+<td width="50%" valign="top">
+
+```text
+┌─ PROJECT MANAGEMENT ─────────────────────┐
+│ Projects started:        yes             │
+│ Projects finished:       eventually      │
+│ Projects abandoned:      absolutely      │
+│ Projects renamed:        constantly      │
+│ Projects rewritten:      why not         │
+│ README files written:    more than need  │
+│ Actual documentation:    working on it   │
+└──────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### ┌── ⚡ `tech_stack`
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <code>Languages</code><br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash,java&theme=dark" alt="Languages" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <code>AI / ML</code><br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI/ML" />
+      </a><br><br>
+      <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <code>Web Stack</code><br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,threejs,vite,fastapi,nodejs,mongodb,supabase&theme=dark" alt="Web Stack" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <code>Systems & Tools</code><br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode&theme=dark" alt="Tools" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ┌── 🛠️ `what_am_i_building`
+
+#### 🛡️ Aegis `Linux` `GTK4` `Libadwaita` `systemd` `IPC`
+> A Linux system monitoring and resource-management project built in collaboration with a close friend.  
+> 
+> *I got involved because:* `"That looks cool."`  
+> *10 minutes later:* `"why is /proc a filesystem"`  
+> **Worth it.**
+
+#### 🌙 Nyx `LLM` `Ollama` `Voice` `Agents` `Python`
+> My attempt at building a personal AI assistant.  
+> 
+> `LLM` ➔ `Local model` ➔ `Ollama` ➔ `Voice` ➔ `Tools` ➔ `Agents` ➔ *"wait... why am I building Jarvis?"*  
+> 
+> *Jarvis, but held together by Python and questionable decisions.*
+
+#### 📚 BookBridge `React` `Node.js` `Full-Stack`
+> A full-stack book marketplace.  
+> 
+> *"I should probably build something useful."* ➔ *"So I did."* ➔ *"Then remembered I could've just read a book."*
+
+#### 📰 Fake News Detector `Python` `Scikit-Learn` `TF-IDF` `ML`
+> A machine-learning project for text classification.  
+> 
+> *Tries to determine whether a news article is real or absolute bullshit.*  
+> *Ironically, it cannot determine whether my code is bullshit.*
+
+---
+
+### ┌── 🔄 `development_methodology`
+
+```text
 ┌───────────────────────────────────────┐
 │ HAVE AN IDEA                          │
 └──────────────────┬────────────────────┘
@@ -75,108 +175,73 @@ Anyting that seems fun ig
        "wait what did I just push"
                    ↓
                  ERROR
+```
 
+---
 
-> relationship_with_linux
-inux: You can do whatever you want.
-Me: Really?
-Linux: Yes.
-Me: Can I automate this?
-Linux: Yes.
-Me: Can I break this?
-Linux: sudo
-Me: ...alright.
+### ┌── 🐧 `the_linux_experience`
 
-Things Linux taught me
-Linux is easy.
-Linux is powerful.
-Linux is flexible.
-Linux is customizable.
+```text
+Linux:  "You can do whatever you want."
+Me:     "Really?"
+Linux:  "Yes."
+Me:     "Can I automate this?"
+Linux:  "Yes."
+Me:     "Can I break this?"
+Linux:  "sudo"
+Me:     "...alright."
+```
 
+Linux is easy.  
+Linux is powerful.  
+Linux is flexible.  
+Linux is customizable.  
 
-Linux is...
+Linux is...  
+`why is this permission denied`
 
-And then there's:
+---
 
-/proc
+`/proc`  
+*Apparently that's a filesystem.*
 
-Apparently that's a filesystem.
+**Respectfully:** `what the fuck`
 
-Respectfully:
+---
 
-what the fuck
+### ┌── 🐛 `debugging_protocol`
 
-> debugging.exe
-Step	My strategy
-01	Read the error
-02	Pretend I understood it
-03	Google it
-04	Ask AI
-05	Change something unrelated
-06	Break three more things
-07	Revert everything
-08	Discover it was a typo
-09	Fix it
-10	git commit -m "fixed stuff"
+| Step | Strategy |
+| :---: | :--- |
+| **01** | Read the error |
+| **02** | Pretend I understood it |
+| **03** | Google it |
+| **04** | Ask AI |
+| **05** | Change something unrelated |
+| **06** | Break three more things |
+| **07** | Revert everything |
+| **08** | Discover it was a typo |
+| **09** | Fix it |
+| **10** | `git commit -m "fixed stuff"` |
 
+---
 
-> github_stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Kanse&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kanse&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af" height="165"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Gaurav-Kanse&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=666666"/> </p>
+### ┌── ⚠️ `things_i_should_not_be_trusted_with`
 
-> currently_learning
-Machine Learning
-        ↓
-Linear Algebra
-        ↓
-Linux Internals
-        ↓
-Systems Programming
-        ↓
-Local LLMs
-        ↓
-UI / UX
-        ↓
-3D Development
-        ↓
-Whatever breaks next
+- [x] `sudo` access
+- [x] A fresh Linux installation
+- [x] An empty Git repository
+- [x] *"just one quick change"*
+- [x] A Raspberry Pi
+- [x] An API key
+- [x] 4 hours of free time
 
-I have started 14 things and finished 3.
-We're getting there.
+> *"Just one quick change."*  
+> **That sentence has cost me entire evenings.**
 
-> system_status
-RAM         ████████████████░░   87%
-CPU         ███████░░░░░░░░░░░   41%
-Motivation  ███░░░░░░░░░░░░░░░   17%
-Projects    ██████████████████  900%
-Sleep       ██░░░░░░░░░░░░░░░░    9%
+---
 
-status: technically functional
-
-> project_management
-Projects started:        yes
-Projects finished:       eventually
-Projects abandoned:      absolutely
-Projects renamed:        constantly
-Projects rewritten:      why not
-README files written:    more than necessary
-Actual documentation:    we're working on it
-
-> things_i_should_not_be_trusted_with
-[✓] sudo access
-[✓] a fresh Linux installation
-[✓] an empty Git repository
-[✓] "just one quick change"
-[✓] a Raspberry Pi
-[✓] an API key
-[✓] 4 hours of free time
-
-Especially:
-
-"Just one quick change."
-
-That sentence has cost me entire evenings.
-
-> greatest_achievement
+### ┌── 🏆 `greatest_achievement`
 
 Getting something to work...
 
@@ -186,14 +251,53 @@ Getting something to work...
 
 and then remembering what I changed.
 
-> contact
-<p align="center"> <a href="https://github.com/Gaurav-Kanse"> <img src="https://img.shields.io/badge/GitHub-Gaurav--Kanse-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://portfolio-gauravkanse.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
+---
+
+### ┌── 🧠 `currently_learning`
+
+```text
+Machine Learning ➔ Linear Algebra ➔ Linux Internals ➔ Systems Programming ➔ Local LLMs ➔ UI / UX ➔ 3D Development ➔ Whatever breaks next
+```
+
+> *I have started 14 things and finished 3.*  
+> **We're getting there.**
+
+---
+
+### ┌── 📈 `github_stats`
 
 <p align="center">
-Build stupid things. Learn smart things. Break everything.
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Kanse&show_icons=true&hide_border=true&theme=github_dark" height="150" alt="Gaurav's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kanse&layout=compact&hide_border=true&theme=github_dark" height="150" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gaurav-Kanse&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### ┌── 📫 `contact`
+
+<p align="center">
+  <a href="https://github.com/Gaurav-Kanse">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-gauravkanse.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+
+**Build stupid things. Learn smart things. Break everything.**
+
+```javascript
 if (works) don't.touch();
+```
 
-</p> ```
-
-Important: Don't add another pair of around the entire README when pasting it into GitHub. The block above is only for copying; inside your actual `README.md`, the individual `text ` sections should remain exactly as shown.
+</div>
