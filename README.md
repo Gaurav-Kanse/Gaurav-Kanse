@@ -23,9 +23,9 @@
 
 ```text
 CS student who spends his time:
-  ├─ breaking Linux
-  ├─ fixing Linux
-  ├─ breaking the thing that fixed Linux
+  ├─ breaking code
+  ├─ fixing code
+  ├─ breaking the thing that fixed code
   ├─ pretending the bug was intentional
   └─ and occasionally writing actual software
 ```
