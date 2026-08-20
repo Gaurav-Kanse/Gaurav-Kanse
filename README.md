@@ -1,29 +1,42 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=GAURAV%20KANSE&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=CS%20STUDENT%20%7C%20AI%2FML%20%7C%20UI%2FUX%20%7C%203D%20DEV%20%7C%20FULL-STACK&descFontSize=14&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
-
-  <br><br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9CA3AF&center=true&vCenter=true&width=600&height=40&lines=CS+STUDENT;AI+%2F+ML+DEVELOPER;UI%2FUX+%26+3D+DEVELOPMENT;FULL-STACK+%26+SYSTEMS" alt="Gaurav Kanse Typing Subtitle" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header" width="100%" alt="Header Wave" />
 
   <br>
 
-  <blockquote>
-    <i>"I have no idea what I'm doing. I just keep opening VS Code."</i>
-  </blockquote>
+  <!-- Incoming Text Typing Animation for Name -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&pause=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=>_GAURAV+KANSE;GAURAV+KANSE" alt="GAURAV KANSE Incoming Text Animation" />
+
+  <br>
+
+  <p>
+    <code>CS STUDENT</code> &nbsp;•&nbsp; 
+    <code>AI / ML</code> &nbsp;•&nbsp; 
+    <code>UI / UX</code> &nbsp;•&nbsp; 
+    <code>3D DEV</code> &nbsp;•&nbsp; 
+    <code>FULL-STACK</code>
+  </p>
+
+  <br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=9CA3AF&center=true&vCenter=true&width=600&height=35&lines=CS+STUDENT;AI+%2F+ML+DEVELOPER;UI%2FUX+%26+3D+DEVELOPMENT;FULL-STACK+%26+SYSTEMS" alt="Subtitles Animation" />
+
+  <br>
+
+  > *"I have no idea what I'm doing. I just keep opening VS Code."*
 
 </div>
 
 ---
 
-### `// 01. WHOAMI`
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=400&height=35&lines=%2F%2F+01.+WHOAMI" alt="// 01. WHOAMI" />
 
 ```text
 ┌──[ gaurav@kanse-arch:~ ]────────────────────────────────────────────────┐
 │ CS student who spends his time:                                         │
-│   ├─ breaking Linux                                                     │
-│   ├─ fixing Linux                                                       │
-│   ├─ breaking the thing that fixed Linux                                │
+│   ├─ breaking Code                                                    │
+│   ├─ fixing Code                                                      │
+│   ├─ breaking the thing that fixed Code                                │
 │   ├─ pretending the bug was intentional                                 │
 │   └─ and occasionally writing actual software                           │
 └─────────────────────────────────────────────────────────────────────────┘
@@ -45,7 +58,7 @@
 
 ---
 
-### `// 02. SYSTEM DIAGNOSTICS`
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=400&height=35&lines=%2F%2F+02.+SYSTEM+DIAGNOSTICS" alt="// 02. SYSTEM DIAGNOSTICS" />
 
 <table width="100%">
 <tr>
@@ -84,7 +97,7 @@
 
 ---
 
-### <code>// 03. TECH STACK</code>
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=400&height=35&lines=%2F%2F+03.+TECH+STACK" alt="// 03. TECH STACK" />
 
 <br>
 
@@ -137,7 +150,7 @@
 
 ---
 
-### `// 04. WHAT SHOULD I BUILD?`
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=450&height=35&lines=%2F%2F+04.+WHAT+SHOULD+I+BUILD%3F" alt="// 04. WHAT SHOULD I BUILD?" />
 
 People ask: *"What are you working on?"*  
 *Brother, I don't even know.*
@@ -182,7 +195,7 @@ People ask: *"What are you working on?"*
 
 ---
 
-### `// 05. DEVELOPMENT METHODOLOGY`
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=450&height=35&lines=%2F%2F+05.+DEVELOPMENT+METHODOLOGY" alt="// 05. DEVELOPMENT METHODOLOGY" />
 
 ```text
 ┌──[ dev_flow.sh ]──────────────────────┐
@@ -220,7 +233,7 @@ People ask: *"What are you working on?"*
 
 ---
 
-### `// 06. THE LINUX EXPERIENCE`
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=2000&color=FFFFFF&center=false&vCenter=true&width=450&height=35&lines=%2F%2F+06.+THE+LINUX+EXPERIENCE" alt="// 06. THE LINUX EXPERIENCE" />
 
 ```text
 ┌──[ linux_dialogue.sh ]──────────────────────────────────────────────────┐
