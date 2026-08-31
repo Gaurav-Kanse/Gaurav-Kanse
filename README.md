@@ -47,14 +47,13 @@ A model is only as good as the system serving it. A backend is only as good as t
 ###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jashk120&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Gaurav's GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Jashk120&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Gaurav-Kanse&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashk120&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kanse&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top languages" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jashk120&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav-Kanse&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies"/>
 </p>
