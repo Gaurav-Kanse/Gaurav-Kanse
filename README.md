@@ -41,3 +41,20 @@ Currently deepening: **Deep Learning, NLP, Django, Rust, System Design.**
 ### Why I build this way
 
 A model is only as good as the system serving it. A backend is only as good as the interface exposing it. I build up and down that chain on purpose — it's the only way to actually own what you ship.
+
+<br>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jashk120&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gaurav's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jashk120&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashk120&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jashk120&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
+</p>
