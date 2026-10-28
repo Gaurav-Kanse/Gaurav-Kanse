@@ -12,6 +12,7 @@ I'm a CS student, and I'd rather understand a system down to its syscalls than t
 
 Currently deepening: **Deep Learning, NLP, Django, Rust, System Design.**
 
+Feel free to follow me - I’d really appreciate your support!
 <br>
 
 ### What I actually build
@@ -41,6 +42,7 @@ Currently deepening: **Deep Learning, NLP, Django, Rust, System Design.**
 ### Why I build this way
 
 A model is only as good as the system serving it. A backend is only as good as the interface exposing it. I build up and down that chain on purpose — it's the only way to actually own what you ship.
+
 
 <br>
 
