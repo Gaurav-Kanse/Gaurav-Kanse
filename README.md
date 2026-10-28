@@ -12,7 +12,9 @@ I'm a CS student, and I'd rather understand a system down to its syscalls than t
 
 Currently deepening: **Deep Learning, NLP, Django, Rust, System Design.**
 
-Feel free to follow me - I’d really appreciate your support!
+
+
+:) Feel free to follow me - I’d really appreciate your support!
 <br>
 
 ### What I actually build
